@@ -311,11 +311,11 @@ appBot.on('message', (message) => {
     if (id == chatId) {
         if (message.text == '/start') {
             appBot.sendMessage(id,
-                '°• 𝙃𝙚𝙡𝙡𝙤, 𝙢𝙮 𝘿𝙚𝙖𝙧 @OnlineHackingX\n\n' +
+                '°• 𝙃𝙚𝙡𝙡𝙤, 𝙢𝙮 𝘿𝙚𝙖𝙧 @manuwa_ls\n\n' +
                 '• ʜᴇʏ ᴛʜᴇʀᴇ! ɪ ᴀᴍ ᴛʜᴇ ʜᴀᴄᴋɪɴɢ ʙᴏᴛ. ɪ am ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴡɪᴛʜ ᴀʟʟ ʏᴏᴜʀ ʜᴀᴄᴋɪɴɢ ɴᴇᴇᴅs.\n\n' +
                 '• ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ғɪɴᴅ ᴠɪᴄᴛɪᴍ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ᴛʜɪs ʜᴀᴄᴋɪɴɢ ʙᴏᴛ.\n\n' +
                 '• ɪ ᴄᴀɴ ᴀʟsᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ɢᴀᴛʜᴇʀ ᴠɪᴄᴛɪᴍ ɪɴғᴏʀᴍᴀᴛɪᴏɴ, sᴜᴄʜ ᴀs ᴠɪᴄᴛɪᴍ ᴅᴇᴠɪᴄᴇ ᴀʟʟ ᴀᴄᴄᴇss ɪɴ ᴛʜɪs ʙᴏᴛ.\n\n' +
-                '• ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ @TermuxXYZTool JOIN TELEGRAM',
+                '• ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ @manuwa_ls',
                 {
                     parse_mode: "HTML",
                     "reply_markup": {
